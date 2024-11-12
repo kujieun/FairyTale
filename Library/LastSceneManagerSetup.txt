@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: Assets/NOT_Lonely/Weatherade SRS/Samples/DemoScene_Playable_Snow.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
