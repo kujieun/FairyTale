@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{A8547E27-BB45-72D0-6BE1-DFCA71CE326B}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cb87fdee-b9b3-41d9-839a-612608f100f0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StoryManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/StoryManager.cs" Line="34" Column="1" />
+      <File FileName="Assets/Scripts/NaverTTS.cs" Line="57" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FairyTale" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="StoryManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
